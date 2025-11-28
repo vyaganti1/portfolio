@@ -95,7 +95,7 @@ const About: React.FC = () => {
             </div>
             <div className="text-center lg:text-right">
                <div className="inline-block text-5xl font-bold text-white">
-                 5+
+                 4+
                </div>
                <div className="text-zinc-500 mt-2 font-medium uppercase tracking-wider">Years Experience</div>
             </div>
