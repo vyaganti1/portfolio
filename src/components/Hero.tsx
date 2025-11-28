@@ -94,7 +94,7 @@ const Hero: React.FC = () => {
                  onClick={() => document.getElementById(SectionId.PROJECTS)?.scrollIntoView({ behavior: 'smooth' })}
                  className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-all shadow-lg shadow-blue-500/20"
                >
-                 View Projects
+                 View Projects Below
                </button>
                
                <a 
