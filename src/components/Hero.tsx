@@ -94,7 +94,7 @@ const Hero: React.FC = () => {
                  onClick={() => document.getElementById(SectionId.PROJECTS)?.scrollIntoView({ behavior: 'smooth' })}
                  className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-all shadow-lg shadow-blue-500/20"
                >
-                 View Projects Below
+                 View Projects
                </button>
                
                <a 
@@ -121,7 +121,7 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 bg-gradient-to-tr from-blue-600 to-indigo-600 rounded-full opacity-20 blur-2xl animate-pulse"></div>
                 <img 
                   src="https://s.yimg.com/ny/api/res/1.2/B7HPdy91MpmXUQyVtsuT_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI-/https://media.zenfs.com/en/insider_articles_922/bd915c23f82b369afff8db611ecbcbb0" 
-                  alt="Alex Profile" 
+                  alt="Venkatesh Profile" 
                   className="relative w-full h-full object-cover rounded-2xl group-hover:scale-105 transition-all duration-500 shadow-2xl grayscale group-hover:grayscale-0"
                 />
              </div>
